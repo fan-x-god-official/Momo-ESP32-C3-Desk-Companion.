@@ -46,3 +46,26 @@ companion powered by an ESP32-C3 Super Mini and a 0.96" OLED display. It feature
 ​🖼️ Web Image Manager: Easily upload and display custom photos directly onto Page 4 through the browser interface.
 ​⚡ Easy Firmware Flashing: Pre-compiled .bin firmware distribution supports direct browser-based flashing via Adafruit_WebSerial_ESPTool (no complex Arduino IDE library setups required for end-users
 ##
+
+| Part | Item |
+| :--- | :--- |
+| **ESP** | ESP32-C3 Super Mini |
+| **Display** | 0.96" I2C OLED |
+| **Touch** | TTP223 Sensor |
+
+---
+<p align="center">
+  <a href="https://t.me/Thanks0004">
+    <img src="https://img.shields.io/badge/Telegram-@Thanks0004-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
+  </a>
+</p>
+
+---
+## 🧩 Pinout
+
+| Pin | Function |
+| :--- | :--- |
+| **GPIO 6** | OLED SDA |
+| **GPIO 7** | OLED SCL |
+| **GPIO 10** | Touch Sensor |
+| **3.3V / GND** | Power Input |
