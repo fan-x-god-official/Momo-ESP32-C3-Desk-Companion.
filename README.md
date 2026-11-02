@@ -38,3 +38,11 @@ companion powered by an ESP32-C3 Super Mini and a 0.96" OLED display. It feature
     <img src="https://img.shields.io/badge/Telegram-@Thanks0004-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
   </a>
 </p>
+​✨ Key Features:
+​🤖 RoboEyes Animations: Smooth, expressive robotic eye animations that give your desk companion a lively personality.
+​🌤️ Live Weather Updates: Fetches real-time weather data automatically via OpenWeatherMap based on your location.
+​🧩 Touch Navigation: Equipped with a TTP223 touch sensor for effortless page switching and interaction.
+​🌐 Built-in Web Portal: Access a local web server hosted directly on the ESP32 to configure your home Wi-Fi and set your custom owner name.
+​🖼️ Web Image Manager: Easily upload and display custom photos directly onto Page 4 through the browser interface.
+​⚡ Easy Firmware Flashing: Pre-compiled .bin firmware distribution supports direct browser-based flashing via Adafruit_WebSerial_ESPTool (no complex Arduino IDE library setups required for end-users
+##
