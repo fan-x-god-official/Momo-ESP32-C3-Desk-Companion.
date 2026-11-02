@@ -6,3 +6,35 @@ companion powered by an ESP32-C3 Super Mini and a 0.96" OLED display. It feature
   <img src="https://img.shields.io/badge/Code-COOL-00BFFF?style=for-the-badge&logo=cplusplus&logoColor=black" alt="BUILD" />
   <img src="https://img.shields.io/badge/Maintained%20By-FAN--X--GOD-00BFFF?style=for-the-badge&logo=github&logoColor=black" alt="Maintained" />
 </p>
+## 📸 Project Gallery
+
+<table>
+  <tr>
+    <td align="center"><b>Front View</b></td>
+    <td align="center"><b>OLED Display</b></td>
+    <td align="center"><b>Hardware Setup</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="IMAGE_URL_1" width="100%" alt="Front View" /></td>
+    <td align="center"><img src="IMAGE_URL_2" width="100%" alt="OLED Display" /></td>
+    <td align="center"><img src="IMAGE_URL_3" width="100%" alt="Hardware Setup" /></td>
+  </tr>
+</table>
+
+---
+
+## 🎬 Project Demo & Animations
+
+<p align="center">
+  <a href="YOUR_VIDEO_URL_HERE">
+    <img src="YOUR_VIDEO_THUMBNAIL_URL" width="70%" alt="PixelPal Demo Video" />
+  </a>
+</p>
+<p align="center"><i>🎬 Click the thumbnail above to watch PixelPal in action!</i></p>
+
+---
+<p align="center">
+  <a href="https://t.me/Thanks0004">
+    <img src="https://img.shields.io/badge/Telegram-@Thanks0004-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
+  </a>
+</p>
