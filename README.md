@@ -1,2 +1,8 @@
 # Momo-ESP32-C3-Desk-Companion.
 companion powered by an ESP32-C3 Super Mini and a 0.96" OLED display. It features expressive RoboEyes animations, live weather updates, touch navigation, and an interactive Web Portal with a built-in Image Manager for custom photo uploads. ​Hardware: ESP32-C3 + SSD1306/SH1106 OLED + TTP223 Touch Sensor. ​Contact / help FilesTelegram @Thanks0004
+<p align="center">
+  <img src="https://img.shields.io/badge/Microcontroller-ESP32--C3-00BFFF?style=for-the-badge&logo=espressif&logoColor=black" alt="ESP32-C3" />
+  <img src="https://img.shields.io/badge/Display-0.96%22_OLED-00BFFF?style=for-the-badge&logo=arduino&logoColor=black" alt="OLED" />
+  <img src="https://img.shields.io/badge/Code-ESCLAB-00BFFF?style=for-the-badge&logo=cplusplus&logoColor=black" alt="BUILD" />
+  <img src="https://img.shields.io/badge/Maintained%20By-FAN--X--GOD-00BFFF?style=for-the-badge&logo=github&logoColor=black" alt="Maintained" />
+</p>
