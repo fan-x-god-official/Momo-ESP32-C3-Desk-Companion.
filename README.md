@@ -3,7 +3,7 @@ companion powered by an ESP32-C3 Super Mini and a 0.96" OLED display. It feature
 <p align="center">
   <img src="https://img.shields.io/badge/Microcontroller-ESP32--C3-00BFFF?style=for-the-badge&logo=espressif&logoColor=black" alt="ESP32-C3" />
   <img src="https://img.shields.io/badge/Display-0.96%22_OLED-00BFFF?style=for-the-badge&logo=arduino&logoColor=black" alt="OLED" />
-  <img src="https://img.shields.io/badge/Code-COOL-00BFFF?style=for-the-badge&logo=cplusplus&logoColor=black" alt="BUILD" />
+  <img src="https://img.shields.io/badge/Code-C++-00BFFF?style=for-the-badge&logo=cplusplus&logoColor=black" alt="BUILD" />
   <img src="https://img.shields.io/badge/Maintained%20By-FAN--X--GOD-00BFFF?style=for-the-badge&logo=github&logoColor=black" alt="Maintained" />
 </p>
 ## 📸 Project Gallery
