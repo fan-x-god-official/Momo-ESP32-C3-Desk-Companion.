@@ -27,7 +27,7 @@ companion powered by an ESP32-C3 Super Mini and a 0.96" OLED display. It feature
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1xJSWT_yiWwYB-BLS3to5mkFhPQIkT_KK/view?usp=drivesdk">
-    <img src="YOUR_VIDEO_THUMBNAIL_URL" width="70%" alt="PixelPal Demo Video" />
+    <img src="https://github.com/user-attachments/assets/0ad7b1bb-95d9-4071-94d9-81d3a85c890e" width="70%" alt="PixelPal Demo Video" />
   </a>
 </p>
 <p align="center"><i>🎬 Click the thumbnail above to watch PixelPal in action!</i></p>
