@@ -47,8 +47,8 @@ companion powered by an ESP32-C3 Super Mini and a 0.96" OLED display. It feature
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/57ab8e3f-8013-4d5c-90cb-8b8e3aa7655c" width="100%" alt="Front View" /></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/b663f749-f47e-4f33-8c8c-c45e0331d64b" width="100%" alt="OLED Display" /></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/0a51a3fb-cd2b-4f92-9f34-1d011e7d10d9" width="100%" alt="Hardware Setup" /></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/c01ac247-bcc7-4640-8acb-76f854d99a8e" width="100%" alt="OLED Display" /></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/87d0fc19-911a-4c0c-8efb-b10569a435ae" width="100%" alt="Hardware Setup" /></td>
   </tr>
 </table>
 
