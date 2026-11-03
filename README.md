@@ -12,7 +12,7 @@ companion powered by an ESP32-C3 Super Mini and a 0.96" OLED display. It feature
   <tr>
     <td align="center"><b>Front View</b></td>
     <td align="center"><b>OLED Display</b></td>
-    <td align="center"><b>Hardware Setup</b></td>
+    <td align="center"><b>view</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/d576d877-49e0-470d-8357-edcb38ed03c1" width="100%" alt="Front View" /></td>
